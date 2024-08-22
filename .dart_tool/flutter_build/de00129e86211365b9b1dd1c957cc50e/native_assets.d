@@ -1,0 +1,1 @@
+ C:\\Users\\jeanc\\StudioProjects\\unitracker\\.dart_tool\\flutter_build\\de00129e86211365b9b1dd1c957cc50e\\native_assets.yaml: 
