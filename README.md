@@ -1,4 +1,4 @@
-# finance
+# UniTracker
 
 A new Flutter project.
 
